@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dbfa048e-75be-43f7-9162-c3cdbe5d7a55" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/endorser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hyperledger-fabric-400-node.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middleware.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1ZI1nzRxqmlm5SbvJqP3SF3P4TS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.16.1" />
+    <property name="js.last.introduce.type" value="CONST" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration name="index.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="index.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.index.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dbfa048e-75be-43f7-9162-c3cdbe5d7a55" name="Default Changelist" comment="" />
+      <created>1584511964840</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584511964840</updated>
+      <workItem from="1584511967451" duration="2838000" />
+      <workItem from="1584528001379" duration="1230000" />
+      <workItem from="1584598702822" duration="1954000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="678" y="170" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584533811968">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="678" y="170" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1584533811968" />
+    <state x="877" y="316" width="675" height="421" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584512350157">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="877" y="316" width="675" height="421" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1584512350157" />
+    <state x="890" y="219" width="649" height="615" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1584513346946">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="890" y="219" width="649" height="615" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1584513346946" />
+    <state width="1344" height="265" key="GridCell.Tab.0.bottom" timestamp="1584600368418">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1344" height="265" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1584600368418" />
+    <state width="1344" height="265" key="GridCell.Tab.0.center" timestamp="1584600368417">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1344" height="265" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1584600368417" />
+    <state width="1344" height="265" key="GridCell.Tab.0.left" timestamp="1584600368417">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1344" height="265" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1584600368417" />
+    <state width="1344" height="265" key="GridCell.Tab.0.right" timestamp="1584600368418">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1344" height="265" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1584600368418" />
+    <state x="575" y="27" width="1280" height="1049" key="SettingsEditor" timestamp="1584533788981">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="575" y="27" width="1280" height="1049" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1584533788981" />
+    <state x="245" y="234" width="1665" height="585" key="new project wizard" timestamp="1584512812725">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="245" y="234" width="1665" height="585" key="new project wizard/67.27.1853.1053@67.27.1853.1053" timestamp="1584512812725" />
+    <state x="799" y="45" width="840" height="1034" key="search.everywhere.popup" timestamp="1584512936036">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="799" y="45" width="840" height="1034" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1584512936036" />
+  </component>
+</project>
